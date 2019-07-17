@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+/dogImages
+/lfw
+.DS_Store
+*.pt
+myImages/
+__pycache__/
+preprocess.p
